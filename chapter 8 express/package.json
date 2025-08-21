@@ -1,0 +1,17 @@
+{
+  "name": "chapter-8-express",
+  "version": "1.0.0",
+  "description": "introduction to express js",
+  "license": "ISC",
+  "author": "muskan",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
